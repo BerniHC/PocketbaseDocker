@@ -2,7 +2,7 @@
 
 FROM alpine:latest
 
-ARG POCKETBASE_VERSION=0.12.2
+ARG POCKETBASE_VERSION=0.13.4
 
 RUN apk add --no-cache \
     ca-certificates \
