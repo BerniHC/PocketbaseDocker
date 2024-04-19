@@ -1,1 +1,2 @@
-# PocketBase Docker
+# pocketbase-docker
+A DockerFile for PocketBase
